@@ -1,0 +1,17 @@
+baseURL = 'https://esurvival.github.io/'
+languageCode = 'en-us'
+title = 'eSurvival'
+
+[params]
+  BookTheme = 'dark'
+  BookSearch = false
+  BookComments = false
+  BookSection = 'tips'
+
+[languages]
+  [languages.pl]
+    languageName = 'Polish'
+    title = 'eSurvival'
+  [languages.en]
+    languageName = 'English'
+    title = 'eSurvival'
