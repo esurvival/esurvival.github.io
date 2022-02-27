@@ -1,6 +1,7 @@
 baseURL = 'https://esurvival.github.io/'
 languageCode = 'en-us'
 title = 'eSurvival'
+publishDir = 'docs'
 
 [params]
   BookTheme = 'dark'
